@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Frontend and Backend
 - 🌱 I’m currently learning HTML, CSS, JS, C#, and soon Java
 - 📫 How to reach me: school.kurtfelipe@gmail.com
-- 😄 Pronouns: Male
+- 😄 Pronouns: He/Him
 
 
 
