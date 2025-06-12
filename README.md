@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kurt717
+- 👋 Hi, I’m Kurt
 - 👀 I’m interested in learning Frontend and Backend
 - 🌱 I’m currently learning HTML, CSS, JS, C#, and soon Java
 - 📫 How to reach me: school.kurtfelipe@gmail.com
